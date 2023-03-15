@@ -1,0 +1,5 @@
+openai
+gpt-index
+PyPDF2
+gradio
+transformers
